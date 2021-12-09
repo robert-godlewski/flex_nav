@@ -1,0 +1,35 @@
+a {
+    color: rgb(224, 224, 224);
+    text-decoration: none;
+}
+div {
+    vertical-align: top;
+}
+li {
+    margin-right: 2%;
+    margin-bottom: 2%;
+}
+.active {
+    color: rgb(255,255,255);
+    font-weight: bold;
+}
+.btn {
+    background-color: rgb(15, 184, 226);
+    border: rgb(0, 0, 0);
+    color: rgb(255,255,255);
+    font-size: medium;
+}
+.nav {
+    background-color: rgb(40, 40, 40);
+}
+.nav-title {
+    display: inline-flex;
+    justify-content: left;
+    color: rgb(255,255,255);
+    margin-left: 1%;
+}
+.nav-links {
+    display: flex;
+    justify-content: right;
+    list-style-type: none;
+}
